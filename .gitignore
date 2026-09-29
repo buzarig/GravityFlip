@@ -1,0 +1,21 @@
+# macOS
+.DS_Store
+
+# Особисті налаштування Xcode
+xcuserdata/
+*.xcuserstate
+
+# Результати збирання
+build/
+DerivedData/
+*.ipa
+*.dSYM
+*.dSYM.zip
+
+# Swift Package Manager
+.build/
+
+# Секрети і сертифікати
+*.p12
+*.mobileprovision
+Secrets.xcconfig
